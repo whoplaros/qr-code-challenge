@@ -11,7 +11,7 @@ main {
 	box-shadow: 5px 5px 10px hsl(220, 15%, 55%, 0.3);
 	border-radius: 15px;
 	padding: 20px 20px;
-	margin: 20% auto;
+	margin: auto;
 }
 img {
 	max-width: 100%;
